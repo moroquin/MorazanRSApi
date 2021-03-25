@@ -1,6 +1,3 @@
-/**
- * Replace with the token generated 
- */
 const postToken = "";
 const getToken = "";
 
